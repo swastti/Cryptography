@@ -1,0 +1,6 @@
+UDP Port --> nmap -sU
+TCP Port --> nmap -ST
+OS FP    --> nmap -O
+Ping Scan -> 1) nmap -sP  2) nmap -sn
+TCP Port scan --> nmap -sN
+Specific port scan --> nmap -p
